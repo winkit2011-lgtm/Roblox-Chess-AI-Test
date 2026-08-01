@@ -1,1 +1,1 @@
-warn("HELLO WARN")
+print(game:GetService("Players").LocalPlayer)
